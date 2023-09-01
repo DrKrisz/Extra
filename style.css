@@ -1,0 +1,34 @@
+.box{
+    position: relative;
+    top: 5vh;
+    left: 45vw;
+    width: 250px;
+    height: 500px;
+    background-color: rgb(56, 209, 209);
+
+    border: 5px solid black;
+    border-radius: 25px;
+}
+
+.phone_top{
+    background-color: rgb(143, 143, 143);
+    border-radius: 20px 20px 0 0;
+}
+
+.telia{
+    position: absolute;
+    top: 10px;
+    left: 1vw;
+}
+
+.time{
+    text-align: center;
+    /*border: 1px solid red;*/
+    padding: 9px;
+}
+
+.battery{
+    position: absolute;
+    top: 10px;
+    right: 1vw;
+}
